@@ -1,5 +1,5 @@
 import React from "react";
-import PizzaItem from "../../components/navbar/pizzaItems/PizzaItem";
+import PizzaItem from "../../components/pizzaItems/PizzaItem";
 import pizzas from "../../pizzasdata";
 import "./home.css";
 const Home = () => {

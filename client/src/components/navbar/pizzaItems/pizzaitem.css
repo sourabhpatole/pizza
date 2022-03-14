@@ -1,0 +1,30 @@
+h1 {
+  font-size: 20px;
+  margin: 2px;
+  padding: 2px;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: center;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+  flex-direction: row;
+  padding: 30px;
+  margin-right: 20px;
+}
+.img-fluid {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  margin-left: 40px;
+}
+.option {
+  display: flex;
+}
+.btn {
+  background-color: tomato;
+  color: whitesmoke;
+}
